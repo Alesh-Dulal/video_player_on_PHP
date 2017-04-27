@@ -1,0 +1,42 @@
+body{
+	background: #FFF;
+	color: #fff;
+	font-family:tahoma;
+	font-size: 12px;
+
+}
+#box{
+	background: #333;
+	padding: 10px;
+	width: 25%;
+	margin: auto;
+	border: 3px solid white;
+    padding: 20px;
+}
+
+input{
+	background: #444;
+	color: #fff;
+	border: 0px;
+	padding: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+#url{
+	background: #444;
+	padding: 10px;
+	margin: 5px;
+}
+
+#playerbox{
+	background: #333;
+	padding: 10px;
+	width: 50%;
+	margin: auto;
+	border: 3px solid white;
+    padding: 20px;
+}
